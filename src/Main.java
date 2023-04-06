@@ -26,7 +26,7 @@ public class Main {
                 index++;
             }
         }
-        System.out.println(Arrays.toString(numbers));
+        //System.out.println(Arrays.toString(numbers));
         System.out.println("컴퓨터가 숫자를 생성하였습니다. 답을 맞춰보세요!");
 
         int count = 0;
